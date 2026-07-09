@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wgt9721.github.io/vram-fit-calculator/sitemap.xml
